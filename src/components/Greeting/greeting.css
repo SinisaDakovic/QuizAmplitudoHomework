@@ -1,0 +1,14 @@
+.greeting {
+  text-align: center;
+}
+.greetingMsg {
+  margin-bottom: 3em;
+}
+
+.quizBtn {
+  background-color: rgb(0, 95, 63);
+  padding: 0.5em 1.5em;
+  border-radius: 15px;
+  color: #ffffff;
+  text-decoration: none;
+}
